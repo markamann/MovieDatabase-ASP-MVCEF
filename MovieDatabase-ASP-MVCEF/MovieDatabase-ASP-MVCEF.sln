@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieDatabase-ASP-MVCEF", "MovieDatabase-ASP-MVCEF\MovieDatabase-ASP-MVCEF.csproj", "{5BF2132D-3433-4552-BDE9-1A2E7AEC0C71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieDatabase-ASP-MVCEF.Tests", "MovieDatabase-ASP-MVCEF.Tests\MovieDatabase-ASP-MVCEF.Tests.csproj", "{6D12FF86-640D-45DF-AFCD-D6EFD4A16010}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BF2132D-3433-4552-BDE9-1A2E7AEC0C71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BF2132D-3433-4552-BDE9-1A2E7AEC0C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BF2132D-3433-4552-BDE9-1A2E7AEC0C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BF2132D-3433-4552-BDE9-1A2E7AEC0C71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D12FF86-640D-45DF-AFCD-D6EFD4A16010}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D12FF86-640D-45DF-AFCD-D6EFD4A16010}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D12FF86-640D-45DF-AFCD-D6EFD4A16010}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D12FF86-640D-45DF-AFCD-D6EFD4A16010}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08DBEB01-91D1-4386-9B25-6130EEEA106F}
+	EndGlobalSection
+EndGlobal
