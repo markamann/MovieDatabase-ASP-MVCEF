@@ -328,3 +328,7 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+# Exclude files beginning with "Connection" and "connection" to ensure connection string files are not shared.
+Connection*
+connection*
